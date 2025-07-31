@@ -9,7 +9,7 @@ Bitte anworte in folgendem Format (json):
                     
 {
 "Thema":"Gender",
-"Belletristik":"JA oder NEIN",
+"Belletristik":"JA oder NEIN"
 }
         
 In der Feld "Thema" kannst du entweder "Gender" oder "Sonstiges" schreiben.
