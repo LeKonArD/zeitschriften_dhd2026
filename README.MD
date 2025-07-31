@@ -1,6 +1,6 @@
+# Nicht nur noch daheim. Thematisierung von Geschlechterfragen in drei Zeitschriften des 19. Jahrhunderts
 
-
-# Prompt 1 (Gender und Belletristik):
+## Prompt 1 (Gender und Belletristik):
 Ich gebe dir einen Artikel aus einer alten deutschen Zeitschrift. Ich möchte von dir wissen, ob
 in diesem Ausschnitt das Thema Gender behandelt wird. Außerdem möchte ich wissen, ob es sich
 bei dem Artikel um Belletristik handelt.
@@ -20,7 +20,7 @@ eine andere Art von schöner Literatur handelt.
                     
 Hier ist der Text:
 
-# Prompt 2 (Haltung zu Genderfragen):
+## Prompt 2 (Haltung zu Genderfragen):
 
 Ich gebe dir einen Artikel aus einer alten deutschen Zeitschrift. Bitte lies ihn genau.
 Ich möchte von dir wissen, ob der Artikel aus der Perspektive des 19. bzw. frühen 20. Jahrhunderts eine progressive oder konservative Haltung
