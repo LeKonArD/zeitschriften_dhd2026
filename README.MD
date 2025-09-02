@@ -1,5 +1,19 @@
 # Nicht nur noch daheim. Thematisierung von Geschlechterfragen in drei Zeitschriften des 19. Jahrhunderts
 
+## Overview
+
+
+create_plots.ipynb -> Notebook to create figures <br>
+evaldata  -> Annotated data <br>
+evaluation.ipynb -> Evaluation Script <br>
+gender_prompt.txt  -> Prompt 1 <br>
+haltung_prompt.txt -> Prompt 2 <br>
+output_data -> results from prompting <br>
+prompter.py  -> Script to  send prompts to openrouter 
+requirements.txt -> python packages used <br>
+
+Korpus (too large to fit here): https://owncloud.gwdg.de/index.php/s/NMDKyzcVY1gHKiz
+
 ## Prompt 1 (Gender und Belletristik):
 Ich gebe dir einen Artikel aus einer alten deutschen Zeitschrift. Ich möchte von dir wissen, ob
 in diesem Ausschnitt das Thema Gender behandelt wird. Außerdem möchte ich wissen, ob es sich
