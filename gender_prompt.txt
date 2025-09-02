@@ -1,0 +1,11 @@
+Ich gebe dir einen Artikel aus einer alten deutschen Zeitschrift. Ich möchte von dir wissen, ob in diesem Ausschnitt das Thema Gender behandelt wird. Außerdem möchte ich wissen, ob es sich bei dem Artikel um Belletristik handelt.
+
+Bitte anworte in folgendem Format (json):
+
+{ "Thema":"Gender", "Belletristik":"JA oder NEIN" }
+
+In der Feld "Thema" kannst du entweder "Gender" oder "Sonstiges" schreiben.
+
+Im Feld "Belletristik" sollst du mit JA antworten, wenn es sich um eine Erzählung, ein Gedicht oder eine andere Art von schöner Literatur handelt.
+
+Hier ist der Text:
